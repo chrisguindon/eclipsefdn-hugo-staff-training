@@ -1,4 +1,4 @@
-baseurl = "https://chrisguindon-eclipsefdn-hugo-staff-training.netlify.com"
+baseurl = "https://chrisguindon-staff-training.netlify.com"
 DefaultContentLanguage = "en"
 title = "eclipsefdn-hugo-staff-training"
 theme = "eclipsefdn-hugo-solstice-theme"
