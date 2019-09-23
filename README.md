@@ -2,7 +2,7 @@
 
 Demo website for my Contributing Website Content training session to EclipseFdn staff.
 
-[![Build Status](https://travis-ci.org/eclipsefdn/eclipsefdn-hugo-staff-training.svg?branch=master)](https://travis-ci.org/eclipsefdn/eclipsefdn-hugo-staff-training)
+[![Build Status](https://travis-ci.org/chrisguindon/eclipsefdn-hugo-staff-training.svg?branch=master)](https://travis-ci.org/chrisguindon/eclipsefdn-hugo-staff-training)
 
 ## Getting started
 
@@ -14,7 +14,7 @@ npm install && hugo server
 
 ## Contributing
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) the [eclipsefdn/eclipsefdn-hugo-staff-training](https://github.com/chrisguindon/eclipsefdn-hugo-staff-training) repository
+1. [Fork](https://help.github.com/articles/fork-a-repo/) the [chrisguindon/eclipsefdn-hugo-staff-training](https://github.com/chrisguindon/eclipsefdn-hugo-staff-training) repository
 2. Clone repository: `git clone https://github.com/[your_github_username]/eclipsefdn-hugo-staff-training.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -m 'Add some feature' -s`
