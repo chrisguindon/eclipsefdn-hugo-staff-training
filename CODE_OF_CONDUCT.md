@@ -3,7 +3,7 @@
 **Version 1.0  
 June 23, 2015**
 
-As members of the Eclipse community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting code reviews, pull requests, patches, and other activities.
+As members of the Eclipse community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting code reviews, pull requests, patches, and other activities. 
 
 We are committed to making participation in the Eclipse community a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion or analogous grounds.
 
