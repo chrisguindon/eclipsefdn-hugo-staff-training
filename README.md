@@ -2,7 +2,7 @@
 
 Demo website for my Contributing Website Content training session to EclipseFdn staff.
 
-[![Build Status](https://travis-ci.org/chrisguindon/eclipsefdn-hugo-staff-training.svg?branch=master)](https://travis-ci.org/chrisguindon/eclipsefdn-hugo-staff-training)
+[![Build Status](https://travis-ci.org/chrisguindon/eclipsefdn-hugo-staff-training.svg?branch=master)](https://travis-ci.org/chrisguindon/eclipsefdn-hugo-staff-training) [![Netlify Status](https://api.netlify.com/api/v1/badges/23fba4fe-34ab-408f-bcf6-17064d02f0a7/deploy-status)](https://app.netlify.com/sites/chrisguindon-staff-training/deploys)
 
 ## Getting started
 
