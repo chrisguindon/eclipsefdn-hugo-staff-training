@@ -6,3 +6,4 @@ categories: ["community-news"]
 ---
 
 This is an community news example.
+Zahra made this change
